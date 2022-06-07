@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2022-06-06T17:12:46+05:30
-draft: true
+draft: false
 ---
 
 Automatic-Door-Opening-System: A technical project using PIR Sensor and Arduino Uno,that automatically opens and closes the door by detecting any person or object.
