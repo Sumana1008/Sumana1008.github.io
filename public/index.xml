@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sumana Mupparapu</title>
-    <link>https://github.com/Sumana1008/</link>
+    <link>https://Sumana1008.github.io/</link>
     <description>Recent content on Sumana Mupparapu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://github.com/Sumana1008/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://Sumana1008.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contactme</title>
-      <link>https://github.com/Sumana1008/contactme/</link>
+      <link>https://Sumana1008.github.io/contactme/</link>
       <pubDate>Mon, 06 Jun 2022 17:49:17 +0530</pubDate>
       
-      <guid>https://github.com/Sumana1008/contactme/</guid>
+      <guid>https://Sumana1008.github.io/contactme/</guid>
       <description>By Email, sumanamupparapu10@gmail.com
 By Phone, +919393946464
 LinkedIn:https://www.linkedin.com/in/sumana-mupparapu-102488196/
@@ -21,10 +21,10 @@ Twitter:https://twitter.com/Sumanaaaaa</description>
     
     <item>
       <title>Projects</title>
-      <link>https://github.com/Sumana1008/projects/</link>
+      <link>https://Sumana1008.github.io/projects/</link>
       <pubDate>Mon, 06 Jun 2022 17:12:46 +0530</pubDate>
       
-      <guid>https://github.com/Sumana1008/projects/</guid>
+      <guid>https://Sumana1008.github.io/projects/</guid>
       <description>Automatic-Door-Opening-System: A technical project using PIR Sensor and Arduino Uno,that automatically opens and closes the door by detecting any person or object.
 Online quiz system:Hosted a react website using cloud services such as S3,EC2 and Cloudfront.
 Expense tracker:This application aims to keep track of the expenses done by the end user.</description>
@@ -32,10 +32,10 @@ Expense tracker:This application aims to keep track of the expenses done by the 
     
     <item>
       <title>About</title>
-      <link>https://github.com/Sumana1008/about/</link>
+      <link>https://Sumana1008.github.io/about/</link>
       <pubDate>Mon, 06 Jun 2022 16:55:52 +0530</pubDate>
       
-      <guid>https://github.com/Sumana1008/about/</guid>
+      <guid>https://Sumana1008.github.io/about/</guid>
       <description>Hello, I’m Sumana
 A CSE Undergrad from VIT-AP University who loves exploring new fields.
 I have cleared my High School and Intermediate from Sri Chaitanya Junior College,Hyderabad, with an acceptable GPA of 9.0 in High School and 94% in Intermediate. Currently, I am pursuing my 4th-year Btech from Vellore Institute of Technology, Amaravati, Andhra Pradesh with a CGPA of 8.83.
